@@ -1,0 +1,20 @@
+.form{
+    display: none ;
+    justify-content: center;
+    
+    
+}
+.form input{
+    margin: 10px;
+}
+.form button{
+    margin-left: 100px;
+    margin-top: 10px;
+    border-radius: 20px;
+    color: black;
+    background-color: antiquewhite;
+    height: 35px;
+    width: 80px;
+    justify-content: center;
+    border: 2px black;
+}
